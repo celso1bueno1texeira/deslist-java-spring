@@ -1,6 +1,6 @@
 package com.celsinho.dslist.entities;
 
-import java.util.Objects;
+
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
